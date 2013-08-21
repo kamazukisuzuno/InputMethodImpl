@@ -1,0 +1,14 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1377047669000 367 bd0e707d4092700764992b9b62fec383a40a4420 /home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/build/res/all/debug/values-v14/values.xml
+1377065606000 464 55a8f9449601ab31045116c3d3f66e93bc329623 /home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/build/res/all/debug/xml/method.xml
+1377076877000 825 7f050f67b644d5d22d70db7f48d1554fc4624f10 /home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/build/res/all/debug/layout/demo_candidate_view.xml
+1377073692000 7641 8ba6d1bcba38c8d2c898a009884468594f8d19a5 /home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/build/res/all/debug/layout/demo_softkey_view.xml
+1377047669000 3121 c13193c37274d333ac028cc72c260b891662d9d0 /home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/build/res/all/debug/drawable-mdpi/ic_launcher.png
+1377065170000 712 3c68eb3fe8a50c2c1b20af88a9198e5c822fc73f /home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/build/res/all/debug/layout/input_frame.xml
+1377047669000 5946 4bf7402bd7df466a787014bdbf5cafd9aa89c2b5 /home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/build/res/all/debug/drawable-hdpi/ic_launcher.png
+1377076707000 1190 14e556d6cf4b029a4764e73b39e13580b47dc5bb /home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/build/res/all/debug/values/values.xml
+1377047669000 9332 4e0e62a430558d0cce3c5dee6f4709055a63a45c /home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/build/res/all/debug/drawable-xhdpi/ic_launcher.png
+1377047669000 353 5b19839843ea36ee3684ee40da4912da5d23d953 /home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/build/res/all/debug/values-v11/values.xml
+1377047669000 17765 702fd3311475c099afc13c0b03375d917cc82018 /home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/build/res/all/debug/drawable-xxhdpi/ic_launcher.png

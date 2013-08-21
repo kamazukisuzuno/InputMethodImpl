@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/src/main/res" >
+            <file
+                name="ic_launcher"
+                path="/home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                path="/home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/src/main/res/values-v11/styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                name="ic_launcher"
+                path="/home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                path="/home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="shu" >书
+                </string>
+                <string name="min" >民
+                </string>
+                <string name="ren" >人
+                </string>
+                <string name="lang" >郎
+                </string>
+                <string name="du" >读
+                </string>
+                <string name="app_name" >SampleInputMethod
+                </string>
+                <string name="min2" >敏
+                </string>
+                <string name="lei" >类
+                </string>
+                <string name="jie" >捷
+                </string>
+                <string name="mi" >米
+                </string>
+            </file>
+            <file
+                path="/home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="/home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/src/main/res/values-v14/styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                name="input_frame"
+                path="/home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/src/main/res/layout/input_frame.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="demo_softkey_view"
+                path="/home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/src/main/res/layout/demo_softkey_view.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="demo_candidate_view"
+                path="/home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/src/main/res/layout/demo_candidate_view.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="method"
+                path="/home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/src/main/res/xml/method.xml"
+                qualifiers=""
+                type="xml" />
+        </source>
+        <source path="/home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/build/res/rs/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/src/debug/res" />
+    </dataSet>
+
+</merger>

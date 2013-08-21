@@ -1,0 +1,15 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1377047618000 24654 696bbbc63d2250ef7d3373f2d602e604acd13d8c /home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/src/main/res/drawable-xxhdpi/ic_launcher.png
+1377062433000 566 5cf335ad4c4b9d8481f993bba352928d528ea8e9 /home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/src/main/res/layout/input_frame.xml
+1377047618000 7721 39b0f5a0570da92f471225402ad0ea6de30bf2be /home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/src/main/res/drawable-hdpi/ic_launcher.png
+1377047618000 3769 eec07752d40e268ed7f4a1730acc77ab1e40aeb0 /home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/src/main/res/drawable-mdpi/ic_launcher.png
+1377073680000 7489 5ca2a3e2023902b834a8a99488063786aabcc303 /home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/src/main/res/layout/demo_softkey_view.xml
+1377076858000 671 0c15e408a2cf962bc296923ac22c6a11b728f734 /home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/src/main/res/layout/demo_candidate_view.xml
+1377065591000 326 22cf0154033297230c00f1d12b2b0a2b689aac45 /home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/src/main/res/xml/method.xml
+1377047619000 324 aa1f5f1723de9aee2669dc44a26fbc0ce776d35f /home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/src/main/res/values-v11/styles.xml
+1377047619000 680 c76f4caaa7a8dfe9727fa93001b3aee3b22d6716 /home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/src/main/res/values/styles.xml
+1377047618000 12329 a8301606e15d4b6dccdd775cc273cfc51a552645 /home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/src/main/res/drawable-xhdpi/ic_launcher.png
+1377047619000 381 b129b276e01126de5b3b753572ac67cbfc19454c /home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/src/main/res/values-v14/styles.xml
+1377076217000 404 32c2e14fe54daa0328b668a173d4aac7eb4bd91d /home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/src/main/res/values/strings.xml

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/src/main/res/values/strings.xml -->
+    <string name="app_name">SampleInputMethod</string>
+    <string name="du">读</string>
+    <string name="jie">捷</string>
+    <string name="lang">郎</string>
+    <string name="lei">类</string>
+    <string name="mi">米</string>
+    <string name="min">民</string>
+    <string name="min2">敏</string>
+    <string name="ren">人</string>
+    <string name="shu">书</string>
+    <!-- From: file:/home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/src/main/res/values/styles.xml -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+</resources>

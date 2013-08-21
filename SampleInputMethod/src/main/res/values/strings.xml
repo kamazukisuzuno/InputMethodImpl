@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SampleInputMethod</string>
+    <string name="du">读</string>
+    <string name="shu">书</string>
+    <string name="lang">郎</string>
+    <string name="ren">人</string>
+    <string name="min">民</string>
+    <string name="mi">米</string>
+    <string name="min2">敏</string>
+    <string name="jie">捷</string>
+    <string name="lei">类</string>
+</resources>

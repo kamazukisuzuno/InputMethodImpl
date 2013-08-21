@@ -1,0 +1,20 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1377047670000 358 eb552c1f46bf600989eaae67cacfb746c5e41a50 /home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/build/classes/debug/suzuno/sampleinputmethod/R$attr.class
+1377076710000 1361 a0ab8a11bf73deb4ed0bbd6849e4d5cbbc9f27e2 /home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/build/classes/debug/suzuno/sampleinputmethod/R$id.class
+1377047670000 357 1266041305596bdce0e0c3802e16d24a52ad0873 /home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/build/classes/debug/suzuno/sampleinputmethod/BuildConfig.class
+1377065333000 1235 a0b5447552101696706f535236b7d01b7ad4d19d /home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/build/classes/debug/suzuno/sampleinputmethod/InputMethodPreference.class
+1377071951000 2222 f3bf96ef850350263c80a272ae1b5f696277e841 /home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/build/classes/debug/suzuno/sampleinputmethod/InputMethodServiceImpl$InputMethodSessionImpl.class
+1377076709000 4398 601ee2e987c965f21fd3a648fafc21e33daf26a9 /home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/build/classes/debug/suzuno/sampleinputmethod/InputMethodWindow.class
+1377071951000 3090 6883fccc406445ecd7684f98d157ceb9a6b684df /home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/build/classes/debug/suzuno/sampleinputmethod/InputMethodServiceImpl$InputMethodImpl.class
+1377076710000 6277 d5a529ced6c9f63ea7e9a3d1678c7f176dd89f23 /home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/build/classes/debug/suzuno/sampleinputmethod/InputMethodServiceImpl.class
+1375155070000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d /home/suzuno/Program/android-studio/sdk/extras/android/m2repository/com/android/support/support-v4/13.0.0/support-v4-13.0.0.jar
+1377076710000 449 3c1630a9b6709a0e764227c2c4d1cba3df31b3c1 /home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/build/classes/debug/suzuno/sampleinputmethod/R$style.class
+1377076710000 503 c62f44ac83699591a6c41ce6a0026d0d08e00ab5 /home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/build/classes/debug/suzuno/sampleinputmethod/R$layout.class
+1377047670000 425 7286efe449fe7a643108aa2d20c184ca649c8d85 /home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/build/classes/debug/suzuno/sampleinputmethod/R$drawable.class
+1377065333000 636 caacaba51e8b3551a88bc9bf4fc8391502ffae84 /home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/build/classes/debug/suzuno/sampleinputmethod/InputMethodPreference$Settings.class
+1377076977000 6227 1db002937b478341398531f9408b1caf5e757d97 /home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/build/classes/debug/suzuno/sampleinputmethod/PinyinInputSession.class
+1377076710000 405 6b6703fe8769b432e0a746f4e6617e6bb1405804 /home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/build/classes/debug/suzuno/sampleinputmethod/R$xml.class
+1377076710000 659 da110072485de108640b5b716f5661ec8fdb3c7a /home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/build/classes/debug/suzuno/sampleinputmethod/R$string.class
+1377076710000 681 b984b5f4c3421bde727a5fca874a5e76e752ca20 /home/suzuno/Program/android-studio/sdk/sources/SampleInputMethodProject/SampleInputMethod/build/classes/debug/suzuno/sampleinputmethod/R.class
